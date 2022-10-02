@@ -1,0 +1,152 @@
+{
+  "version": "1.12.0",
+  "squares": [
+    {
+      "name": "reddit",
+      "links": [
+        {
+          "name": "r/unixporn",
+          "url": "https://www.reddit.com/r/unixporn/"
+        }
+      ]
+    },
+    {
+      "name": "Wallpapers",
+      "links": [
+        {
+          "name": "minimalist wallpaper",
+          "url": "https://wallpapers.com/minimalist"
+        },
+        {
+          "name": "wallhaven.cc",
+          "url": "https://wallhaven.cc/"
+        },
+        {
+          "name": "4k minimalist",
+          "url": "https://wallpaperaccess.com/4k-minimalist"
+        },
+        {
+          "name": "spaaace",
+          "url": "https://wallpaperaccess.com/minimalist-space"
+        },
+        {
+          "name": "wallpapermaiden",
+          "url": "https://www.wallpapermaiden.com/search?term=Minimalistic"
+        }
+      ]
+    },
+    {
+      "name": "Linux",
+      "links": [
+        {
+          "name": "AUR",
+          "url": "https://aur.archlinux.org/"
+        },
+        {
+          "name": "Arch Wiki",
+          "url": "https://wiki.archlinux.org/"
+        },
+        {
+          "name": "Cockpit",
+          "url": "https://localhost:9090/"
+        },
+        {
+          "name": "Github",
+          "url": "https://github.com/Addikorn45"
+        }
+      ]
+    },
+    {
+      "name": "books",
+      "links": [
+        {
+          "name": "12 Rules for life ",
+          "url": "https://www.thalia.de/shop/home/artikeldetails/A1045016105"
+        },
+        {
+          "name": "1984",
+          "url": "https://www.thalia.de/shop/home/artikeldetails/A1058948669"
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "links": [
+        {
+          "name": "Wave",
+          "url": "https://open.spotify.com/playlist/1LTgt0k23aT4OYFLjY16gz"
+        },
+        {
+          "name": "Lofi",
+          "url": "https://youtube.com/playlist?list=PLmkzWbpSnnTuBt9xHPZ6aVq2YwFpvngVG"
+        }
+      ]
+    },
+    {
+      "name": "search",
+      "prefix": "-",
+      "options": [
+        {
+          "opt": "d",
+          "url": "https://www.duckduckgo.com/?q=",
+          "space": "+"
+        },
+        {
+          "opt": "r",
+          "url": "https://www.reddit.com/search?q=",
+          "space": "+"
+        },
+        {
+          "opt": "a",
+          "url": "https://wiki.archlinux.org/index.php?search=",
+          "space": "+"
+        },
+        {
+          "opt": "w",
+          "url": "https://en.wikipedia.org/w/index.php?search=",
+          "space": "+"
+        },
+        {
+          "opt": "y",
+          "url": "https://www.youtube.com/results?search_query=",
+          "space": "+"
+        }
+      ]
+    }
+  ],
+  "bool": {
+    "borders": true,
+    "alwaysopen": false,
+    "background_image": true,
+    "hide_gear_button": false
+  },
+  "style": {
+    "square_size": "175px",
+    "square_spacing": "15px",
+    "heading_font": "DejaVu Sans",
+    "link_font": "DejaVu Sans",
+    "heading_font_size": "14px",
+    "link_font_size": "14px",
+    "link_spacing": "undefined",
+    "background": "#282a36",
+    "foreground": "#3c3e4d ",
+    "heading_color": "#e4756b",
+    "link_color": "#c1cadd",
+    "border_color": "#e4756b",
+    "border_width_normal": "4",
+    "border_width_hovered": "2px 0",
+    "border_radius": "0",
+    "square_shadow": "0",
+    "focus_color": "#e4756b",
+    "focus_bg_color": "#454757",
+    "search_color": "#c1cadd",
+    "search_bg_color": "#454757"
+  },
+  "ext": {
+    "images": [
+      "https://wallpapercave.com/wp/wp5697089.jpg"
+    ],
+    "size": "cover",
+    "filter": "opacity(0.2) grayscale(1)"
+  }
+}
